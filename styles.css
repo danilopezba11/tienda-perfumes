@@ -97,3 +97,17 @@ form{
         resize: vertical;
     }
 }
+
+#inicio{
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f0e2d6;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+.precio{
+    font-weight: bold;
+    color: #5b2a3c;
+    font-size: 1.2rem;
+}
